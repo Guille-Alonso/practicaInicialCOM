@@ -11,7 +11,7 @@ function App() {
   return (
     <>
   <NavBar links={["home","login","register","admin","error 404"]}/>
-
+<h1>soy guille</h1>
       <div className="App">
         <div>
           <a href="https://vitejs.dev" target="_blank">
@@ -41,7 +41,9 @@ function App() {
               :
         <h1>Hola mundo</h1>
       }
+
       <p>asdasohdsjkladhasjkldhasjkldshadjkl</p>
+
     </>
   );
 }
