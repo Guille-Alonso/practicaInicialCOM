@@ -42,7 +42,7 @@ function App() {
         <h1>Hola mundo</h1>
       }
 
-  
+      <p>hola manola</p>
 
     </>
   );
