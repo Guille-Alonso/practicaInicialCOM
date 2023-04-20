@@ -42,8 +42,8 @@ function App() {
         <h1>Hola mundo</h1>
       }
 
-      <p>Conflicto de GIT</p>
-      
+      <p>asdasohdsjkladhasjkldhasjkldshadjkl</p>
+
     </>
   );
 }
